@@ -3855,6 +3855,10 @@ p:last-child {
   color: #fff;
 }
 
+.mobile-logo img{
+  height: 60px;
+}
+
 /*****************************
 * Layout - Offcanvas
 *****************************/
